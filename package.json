@@ -8,7 +8,10 @@
   },
   "author": "Ajdin Hedzic",
   "license": "ISC",
-  "bin":{
-  	"todo": "./index.js"
+  "bin": {
+    "todo": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
   }
 }
